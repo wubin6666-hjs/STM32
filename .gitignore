@@ -1,0 +1,53 @@
+# ===== Keil / MDK 编译产物 =====
+Objects/
+Listings/
+DebugConfig/
+RTE/
+*.bak
+*.dep
+*.lst
+*.map
+*.htm
+*.lnp
+*.sct
+*.crf
+*.d
+*.o
+*.iex
+*.ini
+*.scr
+*.uvguix.*
+*.uvoptx.*
+*.uvguix
+*.uvoptx
+JLinkLog.txt
+JLinkSettings.ini
+*.launch
+*.scvd
+
+# ===== 用户资料 / 文档（不进仓库）=====
+参考文档/
+课件PPT/
+讲义PPT/
+*.pdf
+*.xlsx
+*.docx
+
+# ===== 简历构建产物（不进仓库）=====
+preview*.png
+build_resume.py
+胡锦山-嵌入式开发-简历.pdf
+
+# ===== 根目录散落垃圾 =====
+1
+11.uvprojx
+result/
+
+# ===== 临时文件 =====
+*.tmp
+*~
+*.log
+.idea/
+.vscode/
+*.user
+*.suo
